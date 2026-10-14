@@ -92,23 +92,7 @@ I'm developing my programming foundations and exploring how data, algorithms, an
 
 ---
 
-## 🧩 LeetCode Analytics
 
-<div align="center">
-
-<a href="https://leetcode.com/u/bhvyshrmleet/">
-<img width="80%" src="https://leetcard.jacoblin.cool/bhvyshrmleet?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode statistics and submission heatmap"/>
-</a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/u/bhvyshrmleet/">
-<img src="https://img.shields.io/badge/OPEN%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Open LeetCode profile"/>
-</a>
-
-</div>
-
----
 
 ## 📚 Learning Journey
 
