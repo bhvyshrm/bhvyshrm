@@ -1,141 +1,101 @@
+<!-- 🦇 ANIMATED BATMAN-THEMED HEADER BANNER -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:F5C518&height=230&section=header&text=BHAVYA%20SHARMA&fontSize=55&fontColor=F5C518&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Enthusiast%20%7C%20B.Tech%20CSE%20Student%20%7C%20Constant%20Learner&descAlignY=58&descSize=18&descColor=ffffff" width="100%" alt="Bhavya Sharma Banner"/>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050505,50:312E81,100:7C3AED&text=BHAVYA%20SHARMA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20DEVELOPMENT%20%7C%20PROBLEM%20SOLVING&descAlignY=60&descSize=13&animation=fadeIn" alt="Bhavya Sharma profile banner"/>
+<!-- ⚡ ANIMATED TYPING SUBTITLE -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5C518&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Bhavya+Sharma+%F0%9F%A6%87;Data+Science+Student+%26+Explorer;Mastering+C%2B%2B+%26+Data+Structures;Exploring+Python%2C+Data+Analysis+%26+UI%2FUX;Learning%2C+Building%2C+and+Solving+Problems+Every+Day" alt="Typing SVG" />
+  </a>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Learning+Data+Science+%26+Analytics;C%2B%2B+%7C+DSA+%7C+Python;Building.+Learning.+Improving." alt="Typing animation"/>
+<br/>
 
-<br/><br/>
+<!-- 🔗 SOCIAL & CODING PROFILE LINKS -->
+<div align="center">
+  <a href="https://github.com/bhvyshrm" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=F5C518" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/bhvyshrm" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=F5C518" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/bhvyshrm" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-0D0D0D?style=for-the-badge&logo=x&logoColor=F5C518" alt="X / Twitter"/>
+  </a>
+  <a href="https://leetcode.com/u/bhvyshrmleet" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-1A1A1A?style=for-the-badge&logo=leetcode&logoColor=F5C518" alt="LeetCode"/>
+  </a>
+  <a href="https://takeuforward.org/profile/bhvyshrm" target="_blank">
+    <img src="https://img.shields.io/badge/TakeUForward-0D0D0D?style=for-the-badge&logo=codeforces&logoColor=F5C518" alt="TakeUForward"/>
+  </a>
+</div>
 
-<a href="https://github.com/bhvyshrm"><img src="https://img.shields.io/badge/GitHub-Visit%20Profile-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
-<a href="https://www.linkedin.com/in/bhvyshrm/"><img src="https://img.shields.io/badge/LinkedIn-Connect-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn profile"/></a>
-<a href="https://leetcode.com/u/bhvyshrmleet/"><img src="https://img.shields.io/badge/LeetCode-Solve-18181B?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode profile"/></a>
-<a href="https://takeuforward.org/"><img src="https://img.shields.io/badge/Take%20U%20Forward-Learn-18181B?style=for-the-badge&logo=bookstack&logoColor=A78BFA" alt="Take U Forward website"/></a>
+<br/>
+<hr style="border: 1px solid #333;" />
 
-<br/><br/>
+## 🦇 About Me
 
-<img src="https://komarev.com/ghpvc/?username=bhvyshrm&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
+Hey! I'm **Bhavya Sharma**, a **B.Tech Computer Science** student driven by a deep fascination with **Data Science** and problem-solving. Whether it's writing efficient algorithms by night or uncovering stories hidden inside raw datasets, I'm someone who learns best by building and experimenting.
 
-<br/><br/>
+- 💻 **Core Focus:** Grinding **C++** and **Data Structures & Algorithms (DSA)** to build rock-solid problem-solving foundations.
+- 📊 **Data Journey:** Passionate about **Data Analysis** and **Data Science**—actively exploring **Python** and its data ecosystem to turn numbers into actionable insights.
+- 🎨 **Creative Side:** Curious about **UI/UX Design**, because great logic deserves an intuitive, sleek user experience.
+- 🚀 **Mindset:** Always learning, iterating, and taking on new technical challenges one commit at a time.
 
-*Build with curiosity. Learn with consistency.*
+---
 
+## 🛠️ Tech Stack & Bat-Gadgets
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-0D0D0D?style=for-the-badge&logo=c%2B%2B&logoColor=F5C518" />
+  <img src="https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=F5C518" />
+  <img src="https://img.shields.io/badge/Data_Analysis-0D0D0D?style=for-the-badge&logo=pandas&logoColor=F5C518" />
+  <img src="https://img.shields.io/badge/NumPy-1A1A1A?style=for-the-badge&logo=numpy&logoColor=F5C518" />
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-0D0D0D?style=for-the-badge&logo=figma&logoColor=F5C518" />
+  <img src="https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=F5C518" />
+  <img src="https://img.shields.io/badge/VS_Code-0D0D0D?style=for-the-badge&logo=visual-studio-code&logoColor=F5C518" />
 </div>
 
 ---
 
-## 👋 About Me
-
-Hey, I'm **Bhavya Sharma** — a B.Tech Computer Science student specializing in Data Science.
-
-I'm developing my programming foundations and exploring how data, algorithms, and software can be used to solve real problems. I learn by writing code, building projects, debugging, and improving step by step.
-
-- 🎓 B.Tech student in Computer Science (Data Science)
-- 💻 Learning C++ and Data Structures & Algorithms
-- 🧠 Practising problem-solving; currently progressing through recursion
-- 📊 Interested in data analysis, statistics, and visualization
-- 🐍 Exploring Python and its data ecosystem
-- 🌐 Interested in software development and web technologies
-- 🎨 Curious about UI/UX and thoughtful digital experiences
-- 🚀 Learning through hands-on projects and consistent practice
-
-### 🎯 Current Focus
-
-`C++` · `DSA` · `Python` · `Data Analytics` · `Problem Solving`
-
----
-
-## 🛠️ Technologies & Tools
+## 📊 GitHub & Coding Telemetry
 
 <div align="center">
-
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" alt="Programming languages"/>
-
-### Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,react,nextjs,tailwind,supabase,postgres" alt="Development tools and technologies"/>
-
+  <!-- GitHub Stats & Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhvyshrm&show_icons=true&bg_color=0D0D0D&title_color=F5C518&text_color=E0E0E0&icon_color=F5C518&border_color=333333&hide_border=false" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhvyshrm&layout=compact&bg_color=0D0D0D&title_color=F5C518&text_color=E0E0E0&border_color=333333&hide_border=false" alt="Top Languages" />
 </div>
 
-> These icons represent technologies I use or am exploring. They do not imply professional proficiency in every technology.
-
----
-
-## 📊 GitHub Analytics
+<div align="center">
+  <!-- GitHub Streak & Live LeetCode Stats -->
+  <img height="185em" src="https://streak-stats.demolab.com?user=bhvyshrm&theme=dark&background=0D0D0D&border=333333&stroke=333333&ring=F5C518&fire=F5C518&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F5C518&sideLabels=E0E0E0&dates=999999" alt="GitHub Streak" />
+  <img height="185em" src="https://leetcard.jacoblin.cool/bhvyshrmleet?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</div>
 
 <div align="center">
-
-### Overall Statistics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhvyshrm&show_icons=true&hide_border=true&bg_color=050505&title_color=A78BFA&icon_color=A78BFA&text_color=E4E4E7&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhvyshrm&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=A78BFA&text_color=E4E4E7" alt="Programming language statistics"/>
-
-<br/><br/>
-
-### 🔥 Contribution Streak
-
-<img width="75%" src="https://streak-stats.demolab.com/?user=bhvyshrm&hide_border=true&background=050505&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E4E4E7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=71717A" alt="GitHub contribution streak"/>
-
+  <!-- Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhvyshrm&bg_color=0D0D0D&color=F5C518&line=F5C518&point=FFFFFF&area=true&hide_border=false&border_color=333333" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📌 Featured Repositories
 
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhvyshrm&bg_color=050505&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity" alt="GitHub contribution activity graph"/>
-
+  <!-- Replace REPO_NAME_1 and REPO_NAME_2 with your exact GitHub repository names -->
+  <a href="https://github.com/bhvyshrm/bhvyshrm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhvyshrm&repo=bhvyshrm&bg_color=0D0D0D&title_color=F5C518&text_color=E0E0E0&icon_color=F5C518&border_color=333333" alt="Profile Repo" />
+  </a>
+  <!-- Uncomment and replace REPO_NAME_2 below once you want to feature another repo! -->
+  <!--
+  <a href="https://github.com/bhvyshrm/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhvyshrm&repo=REPO_NAME_2&bg_color=0D0D0D&title_color=F5C518&text_color=E0E0E0&icon_color=F5C518&border_color=333333" alt="Repo 2" />
+  </a>
+  -->
 </div>
 
----
-
-
-
-## 📚 Learning Journey
-
-| Area | Current Direction |
-|:---|:---|
-| 💻 Programming | C++ fundamentals and Python |
-| 🧠 DSA | Recursion and problem-solving |
-| 📊 Data Science | Data analysis and statistics |
-| 🐍 Python | Programming and data workflows |
-| 🌐 Web Development | Frontend and full-stack fundamentals |
-| 🗄️ Databases | SQL and database concepts |
-| 🚀 Projects | Learning through practical implementation |
-
-### 🗺️ My Roadmap
-
-<details>
-<summary><strong>View my learning roadmap</strong></summary>
-
-```text
-COMPUTER SCIENCE
-│
-├── Programming
-│   ├── C++ Fundamentals
-│   ├── Object-Oriented Programming
-│   └── Python
-│
-├── Data Structures & Algorithms
-│   ├── Arrays and Strings
-│   ├── Recursion and Backtracking
-│   ├── Linked Lists
-│   ├── Stacks and Queues
-│   ├── Trees and Graphs
-│   └── Algorithms and Complexity
-│
-├── Data Science
-│   ├── NumPy and Pandas
-│   ├── Statistics and Probability
-│   ├── Data Cleaning
-│   ├── Data Visualization
-│   └── Machine Learning Fundamentals
-│
-└── Software Development
-    ├── HTML, CSS and JavaScript
-    ├── React and Next.js
-    ├── APIs and Databases
-    └── Testing and Deployment
+<!-- 🦇 ANIMATED FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:F5C518&height=110&section=footer" width="100%" alt="Footer"/>
+</div>
