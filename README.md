@@ -80,20 +80,6 @@ Hey! I'm **Bhavya Sharma**, a **B.Tech Computer Science** student driven by a de
 
 ---
 
-## 📌 Featured Repositories
-
-<div align="center">
-  <!-- Replace REPO_NAME_1 and REPO_NAME_2 with your exact GitHub repository names -->
-  <a href="https://github.com/bhvyshrm/bhvyshrm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhvyshrm&repo=bhvyshrm&bg_color=0D0D0D&title_color=F5C518&text_color=E0E0E0&icon_color=F5C518&border_color=333333" alt="Profile Repo" />
-  </a>
-  <!-- Uncomment and replace REPO_NAME_2 below once you want to feature another repo! -->
-  <!--
-  <a href="https://github.com/bhvyshrm/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhvyshrm&repo=REPO_NAME_2&bg_color=0D0D0D&title_color=F5C518&text_color=E0E0E0&icon_color=F5C518&border_color=333333" alt="Repo 2" />
-  </a>
-  -->
-</div>
 
 <!-- 🦇 ANIMATED FOOTER -->
 <div align="center">
