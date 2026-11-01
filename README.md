@@ -1,15 +1,10 @@
-<!--
-  BHAVYA SHARMA — GitHub Profile
-  Design: Midnight / Gold / Editorial
--->
+ <div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090B10,50:171717,100:9C7A1B&height=180&section=header&text=BHAVYA%20SHARMA&fontSize=48&fontColor=F5C542&fontAlignY=40&desc=Developer%20%7C%20Student%20%7C%20Builder&descSize=15&descAlignY=62&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090B10,50:171717,100:9C7A1B&height=190&section=header&text=BHAVYA%20SHARMA&fontSize=48&fontColor=F5C542&fontAlignY=40&desc=Developer%20%7C%20Student%20%7C%20Builder&descSize=15&descAlignY=62&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=F5C542&center=true&vCenter=true&width=600&lines=Turning+curiosity+into+code.;Building+ideas+into+real+products.;Learning.+Experimenting.+Improving.;One+project+at+a+time." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=F5C542&center=true&vCenter=true&width=600&lines=Turning+curiosity+into+code.;Building+ideas+into+real+products.;Learning.+Experimenting.+Improving.;One+project+at+a+time." />
 
 <br/>
 
@@ -17,7 +12,7 @@
 I want to build things with it.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-111111?style=flat-square&logo=github)](https://github.com/bhvyshrm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/bhvyshrm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bhvyshrm)
 
 </div>
 
@@ -29,7 +24,7 @@ Hey, I'm **Bhavya Sharma**, a Computer Science student specializing in Data Scie
 
 I'm interested in the intersection of software engineering, creative problem-solving, and design.
 
-I like exploring new technologies, building applications, experimenting with interfaces, and turning random ideas into actual projects.
+I enjoy exploring technologies, building applications, experimenting with interfaces, and turning ideas into actual projects.
 
 ```cpp
 struct Developer {
@@ -131,11 +126,11 @@ A creative platform concept built around sharing poetry and writing.
 
 ---
 
-## `04` / GITHUB ACTIVITY
+## `04` / CONTRIBUTION MATRIX
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhvyshrm&bg_color=090B10&color=F5C542&line=F5C542&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+<img src="https://raw.githubusercontent.com/bhvyshrm/bhvyshrm/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 
 </div>
 
