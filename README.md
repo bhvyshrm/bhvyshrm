@@ -126,14 +126,25 @@ A creative platform concept built around sharing poetry and writing.
 
 ---
 
-## `04` / CONTRIBUTION MATRIX
+## `## `04` / GITHUB ACTIVITY & MOMENTUM
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bhvyshrm/bhvyshrm/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+### DEVELOPMENT STATISTICS
+
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=bhvyshrm&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=090B10&icon_color=F5C542&title_color=F5C542" alt="GitHub Statistics"/>
+
+<br/>
+
+<img height="180" src="https://streak-stats.demolab.com?user=bhvyshrm&theme=dark&hide_border=true&background=090B10&ring=F5C542&fire=F5C542&currStreakLabel=F5C542" alt="GitHub Contribution Streak"/>
+
+<br/>
+
+### CONTRIBUTION MATRIX
+
+<img src="https://raw.githubusercontent.com/bhvyshrm/bhvyshrm/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
-
 ---
 
 ## `05` / BEYOND THE TERMINAL
