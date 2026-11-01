@@ -1,87 +1,163 @@
-<!-- 🦇 ANIMATED BATMAN-THEMED HEADER BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:F5C518&height=230&section=header&text=BHAVYA%20SHARMA&fontSize=55&fontColor=F5C518&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Enthusiast%20%7C%20B.Tech%20CSE%20Student%20%7C%20Constant%20Learner&descAlignY=58&descSize=18&descColor=ffffff" width="100%" alt="Bhavya Sharma Banner"/>
-</div>
+<!--
+  BHAVYA SHARMA — GitHub Profile
+  Design: Midnight / Gold / Editorial
+-->
 
-<!-- ⚡ ANIMATED TYPING SUBTITLE -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5C518&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Bhavya+Sharma+%F0%9F%A6%87;Data+Science+Student+%26+Explorer;Mastering+C%2B%2B+%26+Data+Structures;Exploring+Python%2C+Data+Analysis+%26+UI%2FUX;Learning%2C+Building%2C+and+Solving+Problems+Every+Day" alt="Typing SVG" />
-  </a>
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090B10,50:171717,100:9C7A1B&height=180&section=header&text=BHAVYA%20SHARMA&fontSize=48&fontColor=F5C542&fontAlignY=40&desc=Developer%20%7C%20Student%20%7C%20Builder&descSize=15&descAlignY=62&animation=fadeIn" width="100%" />
 
 <br/>
 
-<!-- 🔗 SOCIAL & CODING PROFILE LINKS -->
-<div align="center">
-  <a href="https://github.com/bhvyshrm" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=F5C518" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/bhvyshrm" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=F5C518" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/bhvyshrm" target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-0D0D0D?style=for-the-badge&logo=x&logoColor=F5C518" alt="X / Twitter"/>
-  </a>
-  <a href="https://leetcode.com/u/bhvyshrmleet" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-1A1A1A?style=for-the-badge&logo=leetcode&logoColor=F5C518" alt="LeetCode"/>
-  </a>
-  <a href="https://takeuforward.org/profile/bhvyshrm" target="_blank">
-    <img src="https://img.shields.io/badge/TakeUForward-0D0D0D?style=for-the-badge&logo=codeforces&logoColor=F5C518" alt="TakeUForward"/>
-  </a>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=F5C542&center=true&vCenter=true&width=600&lines=Turning+curiosity+into+code.;Building+ideas+into+real+products.;Learning.+Experimenting.+Improving.;One+project+at+a+time." alt="Typing SVG" />
 
 <br/>
-<hr style="border: 1px solid #333;" />
 
-## 🦇 About Me
+**I don't just want to learn how technology works.  
+I want to build things with it.**
 
-Hey! I'm **Bhavya Sharma**, a **B.Tech Computer Science** student driven by a deep fascination with **Data Science** and problem-solving. Whether it's writing efficient algorithms by night or uncovering stories hidden inside raw datasets, I'm someone who learns best by building and experimenting.
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-111111?style=flat-square&logo=github)](https://github.com/bhvyshrm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/bhvyshrm)
 
-- 💻 **Core Focus:** Grinding **C++** and **Data Structures & Algorithms (DSA)** to build rock-solid problem-solving foundations.
-- 📊 **Data Journey:** Passionate about **Data Analysis** and **Data Science**—actively exploring **Python** and its data ecosystem to turn numbers into actionable insights.
-- 🎨 **Creative Side:** Curious about **UI/UX Design**, because great logic deserves an intuitive, sleek user experience.
-- 🚀 **Mindset:** Always learning, iterating, and taking on new technical challenges one commit at a time.
-
----
-
-## 🛠️ Tech Stack & Bat-Gadgets
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C++-0D0D0D?style=for-the-badge&logo=c%2B%2B&logoColor=F5C518" />
-  <img src="https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=F5C518" />
-  <img src="https://img.shields.io/badge/Data_Analysis-0D0D0D?style=for-the-badge&logo=pandas&logoColor=F5C518" />
-  <img src="https://img.shields.io/badge/NumPy-1A1A1A?style=for-the-badge&logo=numpy&logoColor=F5C518" />
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-0D0D0D?style=for-the-badge&logo=figma&logoColor=F5C518" />
-  <img src="https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=F5C518" />
-  <img src="https://img.shields.io/badge/VS_Code-0D0D0D?style=for-the-badge&logo=visual-studio-code&logoColor=F5C518" />
 </div>
 
 ---
 
-## 📊 GitHub & Coding Telemetry
+## `01` / THE PERSON BEHIND THE CODE
+
+Hey, I'm **Bhavya Sharma**, a Computer Science student specializing in Data Science.
+
+I'm interested in the intersection of software engineering, creative problem-solving, and design.
+
+I like exploring new technologies, building applications, experimenting with interfaces, and turning random ideas into actual projects.
+
+```cpp
+struct Developer {
+    string name = "Bhavya Sharma";
+    string degree = "B.Tech - Computer Science (Data Science)";
+    string focus = "Software Development & Problem Solving";
+    string mindset = "Learn -> Build -> Improve";
+    bool openToLearning = true;
+};
+```
+
+---
+
+## `02` / CURRENTLY EXPLORING
+
+| Domain | Focus |
+|:---|:---|
+| Programming | C++, Python, JavaScript |
+| Computer Science | DSA, OOP, DBMS |
+| Development | React, Next.js, Flutter |
+| Backend | Supabase, APIs |
+| Design | UI/UX, Figma |
+| Tools | Git, GitHub, VS Code |
 
 <div align="center">
-  <!-- GitHub Stats & Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhvyshrm&show_icons=true&bg_color=0D0D0D&title_color=F5C518&text_color=E0E0E0&icon_color=F5C518&border_color=333333&hide_border=false" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhvyshrm&layout=compact&bg_color=0D0D0D&title_color=F5C518&text_color=E0E0E0&border_color=333333&hide_border=false" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <!-- GitHub Streak & Live LeetCode Stats -->
-  <img height="185em" src="https://streak-stats.demolab.com?user=bhvyshrm&theme=dark&background=0D0D0D&border=333333&stroke=333333&ring=F5C518&fire=F5C518&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F5C518&sideLabels=E0E0E0&dates=999999" alt="GitHub Streak" />
-  <img height="185em" src="https://leetcard.jacoblin.cool/bhvyshrmleet?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-</div>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,flutter,dart,supabase,git,github,vscode,figma&perline=7" />
 
-<div align="center">
-  <!-- Contribution Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhvyshrm&bg_color=0D0D0D&color=F5C518&line=F5C518&point=FFFFFF&area=true&hide_border=false&border_color=333333" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
 
+## `03` / SELECTED WORK
 
-<!-- 🦇 ANIMATED FOOTER -->
+Things I've been learning from, experimenting with, and building.
+
+<table>
+<tr>
+<td width="50%">
+
+### 01. Bhavya Writes
+
+A personal creative writing platform for stories and thoughts.
+
+`Next.js` `TypeScript` `Supabase`
+
+</td>
+<td width="50%">
+
+### 02. Haven
+
+A minimal personal journaling and productivity application.
+
+`Flutter` `Dart` `Supabase`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 03. C++ Projects
+
+A collection of practical projects built while strengthening programming fundamentals.
+
+`C++` `Problem Solving`
+
+</td>
+<td width="50%">
+
+### 04. CSV Explorer
+
+An exploration of data handling and working with CSV files.
+
+`Python` `Data Analysis`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 05. Nakoda Trolley
+
+A digital presence concept for a family business.
+
+`Web Development` `UI/UX`
+
+</td>
+<td width="50%">
+
+### 06. Poetly
+
+A creative platform concept built around sharing poetry and writing.
+
+`Web Development` `Supabase`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04` / GITHUB ACTIVITY
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:F5C518&height=110&section=footer" width="100%" alt="Footer"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhvyshrm&bg_color=090B10&color=F5C542&line=F5C542&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+## `05` / BEYOND THE TERMINAL
+
+- Exploring good product design and user experiences.
+- Experimenting with new tools and technologies.
+- Interested in building useful products, not just demos.
+- Always looking for better ways to understand and solve problems.
+
+---
+
+<div align="center">
+
+### THE PROCESS NEVER STOPS.
+
+**LEARN. BUILD. BREAK. FIX. REPEAT.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C7A1B,50:171717,100:090B10&height=110&section=footer" width="100%" />
+
+<sub>Designed with curiosity. Built with code. — Bhavya Sharma</sub>
+
 </div>
